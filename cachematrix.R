@@ -1,6 +1,9 @@
 ## Save the inrevese of matrix in the envirmoment.
 
-## 
+## 1, set the value of the matrix
+## 2, get the value of the matrix
+## 3, set the inrevese of matrix
+## 4, get the inrevese of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
